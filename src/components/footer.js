@@ -14,19 +14,19 @@ const Footer = ({ social }) => (
           style={{ color: '#de3618' }}
         />
       </span>
-      <span className="inline-block mr-1">by</span>
+      <span className="inline-block mr-1">using</span>
       <a
         className="text-primary-500 hover:text-primary-700 font-bold"
-        href="https://barancezayirli.com"
+        href="https://github.com/barancezayirli/gatsby-starter-resume-cms"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Baran Cezayirli
+        Gatsby starter resume cms
       </a>
     </div>
     {social && (
       <div className="flex items-center justify-center ml-2">
-        {social.map(item => (
+        {social.map((item) => (
           <a
             key={item.service}
             className="footer-social-link"
