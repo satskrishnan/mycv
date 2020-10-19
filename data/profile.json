@@ -150,9 +150,10 @@
   "role": "Principal Consultant",
   "projects": [
     {
-      "name": "Path Train Schedule",
-      "description": "This skill helps users in knowing the next scheduled PATH train from a particular PATH route station.",
-      "link": "https://www.amazon.com/VinSats-Path-Train-Schedule/dp/B071FRFWKY"
+      "name": "Finacle Retail Lending Implementation",
+      "company": "Tier-1 Bank in USA",
+      "description": "Worked as an Integration Lead in Finacle Retail Lending Platform Implementation. Worked along with to define based Integration framework with Finacle, Designed End of Day Integration scheduler integration of Finacle with Bank scheduler, Provided framework for performing automated scenario testing tool. \nI helped bank team to bring up Finacle Integration with Retail Deposit Platform Implementation with a day to complete Finacle setup. For this whole activity, I got Finacle Cross Sell Award from Infosys.",
+      "link": "https://www.infosys.com/newsroom/press-releases/2016/cloud-new-online-lending-business.html"
     }
   ],
   "fullname": "Sathishkumar Krishnan"
