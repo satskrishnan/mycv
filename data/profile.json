@@ -11,20 +11,17 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Architecture",
-          "percent": 89
+          "name": "Architecture"
         },
         {
-          "name": "Dev Ops",
-          "percent": 81
+          "name": "Dev Ops"
         },
         {
-          "name": "Backend Development",
-          "percent": 93
+          "name": "Backend Development"
         },
         {
           "name": "Finacle Integration Platform",
-          "percent": 90
+          "percent": 100
         }
       ]
     },
