@@ -29,16 +29,14 @@
       ]
     },
     {
-      "title": "Languages",
+      "title": "Cloud Technologies",
       "type": "percent",
       "subskills": [
         {
-          "name": "Javascript",
-          "percent": 96
+          "name": "AWS"
         },
         {
-          "name": "Java",
-          "percent": 82
+          "name": "Azure"
         }
       ]
     },
@@ -47,22 +45,10 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "React"
-        },
-        {
-          "name": "Electron"
+          "name": "Springboot"
         },
         {
           "name": "Node"
-        },
-        {
-          "name": "Flusk"
-        },
-        {
-          "name": "Express"
-        },
-        {
-          "name": "Feathers"
         }
       ]
     },
@@ -84,9 +70,6 @@
       "subskills": [
         {
           "name": "Postgresql"
-        },
-        {
-          "name": "Mongodb"
         },
         {
           "name": "Oracle"
